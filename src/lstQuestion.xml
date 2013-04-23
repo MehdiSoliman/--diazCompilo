@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <Question>
+        <Chapitre>JAVA</Chapitre>
+        <Niveau>1</Niveau>
+        <Enonce>Qu'est ce qu'un constructeur ?</Enonce>
+        <Reponse>TRUE</Reponse>
+    </Question>
+    
+    <Question>
+        <Chapitre>MM4</Chapitre>
+        <Niveau>2</Niveau>
+        <Enonce>Qu'est ce qu'un constructeur ?</Enonce>
+        <Reponse>TRUE</Reponse>
+    </Question>
+    
+    <Question>
+        <Chapitre>Anglais</Chapitre>
+        <Niveau>3</Niveau>
+        <Enonce>Qu'est ce qu'un constructeur ?</Enonce>
+        <Reponse>TRUE</Reponse>
+    </Question>
+    
+</root>
